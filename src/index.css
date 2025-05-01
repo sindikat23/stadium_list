@@ -1,0 +1,5 @@
+@import "tailwindcss";
+.my-bg {
+    @apply w-full h-[200px] bg-cover bg-center bg-no-repeat;
+    background-image: url('assets/decor/nav-decor-stadium.jpg');
+  }
