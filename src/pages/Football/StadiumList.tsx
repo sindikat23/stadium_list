@@ -1,4 +1,4 @@
-import { AppstoreAddOutlined, EnvironmentFilled, GlobalOutlined, HeatMapOutlined, StarFilled } from "@ant-design/icons"
+import { AppstoreAddOutlined, EnvironmentFilled, GlobalOutlined, StarFilled } from "@ant-design/icons"
 import { Stadiums } from "./IStadimList"
 import { useEffect, useState } from "react"
 import { IStadium } from "../../types/interfaces"
