@@ -53,7 +53,7 @@ const StadiumList = () => {
             )
         } else {
             const newStadium: IStadium = {
-                id: Date.now(),
+                
                 ...values,
             }
             setStad(prev => [...prev, newStadium])
